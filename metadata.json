@@ -1,0 +1,5 @@
+{
+  "name": "Video Transcriber",
+  "description": "An AI-powered video transcription tool that generates clear, English transcripts from video files using Gemini 3.1 Pro.",
+  "requestFramePermissions": []
+}
